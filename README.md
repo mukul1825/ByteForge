@@ -16,8 +16,8 @@ A programming interview preparation platform built as a college miniproject. Inc
 | Layer | Technology |
 |---|---|
 | Frontend | React (Vite) |
-| Backend | Node.js / Express *(or FastAPI — update once decided)* |
-| Database | MongoDB *(or PostgreSQL — update once decided)* |
+| Backend | Node.js / Express |
+| Database | MongoDB |
 | Code Execution | Judge0 CE (via RapidAPI) / Piston API |
 | Code Editor | Monaco Editor |
 | Deployment | Vercel (frontend) + Render/Railway (backend) |
@@ -37,7 +37,7 @@ ByteForge/
 ### Prerequisites
 - Node.js (v18+)
 - npm or yarn
-- MongoDB instance (local or Atlas) *(update if using SQL)*
+- MongoDB instance (local or Atlas)
 
 ### Setup
 
@@ -70,11 +70,12 @@ ByteForge/
 
 | Name | Role |
 |---|---|
-| — | Backend/API Lead |
-| — | Judge Engine Integration |
-| — | Frontend — Core App |
-| — | Frontend — UX/Dashboard |
-| — | Content & Data (x2) |
+| Mukul Anand Raj | Backend/API Lead |
+| Nayyar Sayeed | Judge Engine Integration |
+| Mayank Singh | Frontend — Core App |
+| Muzaffar Ali | Frontend — UX/Dashboard |
+| Aditi | Content & Data |
+| Mohsin | Content & Data |
 
 ## Roadmap
 
