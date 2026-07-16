@@ -18,9 +18,9 @@ A programming interview preparation platform built as a college miniproject. Inc
 | Frontend | React (Vite) |
 | Backend | Node.js / Express |
 | Database | MongoDB |
-| Code Execution | Judge0 CE (via RapidAPI) / Piston API |
+| Code Execution | Piston API |
 | Code Editor | Monaco Editor |
-| Deployment | Vercel (frontend) + Render/Railway (backend) |
+| Deployment | Vercel (frontend) + Render(backend) |
 
 ## Project Structure
 
